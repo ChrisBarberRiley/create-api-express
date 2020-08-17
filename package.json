@@ -1,6 +1,6 @@
 {
   "name": "create-api-express",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "bin": {
     "create-api-express": "index.js"
   },
